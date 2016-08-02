@@ -1,0 +1,4 @@
+/node_modules
+/out
+.idea/libraries/
+.idea/workspace.xml
